@@ -1,1 +1,1 @@
-self-reflection at the end of the project, which is a good way to review what you have learned.
+This is an HTML project displaying some of my favourite recipes, showcasing what I’ve learned in HTML so far.
